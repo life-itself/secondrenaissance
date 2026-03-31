@@ -6,11 +6,10 @@ Second Renaissance is an initiative of [Life Itself](https://lifeitself.org).
 
 ### Curators
 
-* Rufus Pollock, co-founder Life Itself 
-* Sylvie Barbier, co-founder Life Itself
-* Lauren Wigmore, Life Itself Comms
-* Jonah Wilberg, Life Itself Research
-* Naeema Zarif, Life Itself
+* Rufus Pollock
+* Sylvie Barbier
+* Jonah Wilberg
+* Naeema Zarif
 
 ### Advisors
 
