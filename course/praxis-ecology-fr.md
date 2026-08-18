@@ -37,7 +37,7 @@ layout: plain
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      À partir du 15 septembre 2026 · 250 € · 30 % de réduction avant le 15 août
+      À partir du 15 septembre 2026 · 250 € · 30 % de réduction avant le 5 septembre 
     </p>
     <p class="mt-2 text-white/70 text-sm">
       <a href="mailto:praxis@lifeitself.org?subject=Demande%20de%20bourse%20-%20Cours%20de%20Design%20Praxis%20Ecology" class="underline hover:text-white">Faire une demande de bourse</a>
