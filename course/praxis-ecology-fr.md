@@ -81,7 +81,7 @@ layout: plain
       <li><strong>Où :</strong> en ligne</li>
       <li><strong>Enregistrements :</strong> disponibles pour celles et ceux qui ne peuvent pas assister en direct</li>
       <li><strong>Animé par :</strong> Valérie Duvauchelle · Life Itself</li>
-      <li><strong>Tarif :</strong> 250 € · 30 % de réduction avant le 15 août</li>
+      <li><strong>Tarif :</strong> 250 € · 30 % de réduction avant le 5 septembre </li>
     </ul>
   </section>
 
