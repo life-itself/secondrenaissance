@@ -37,7 +37,7 @@ layout: plain
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      Starting 15 September 2026 · €250 · Early bird 30% off before 15 August
+      Starting 15 September 2026 · €250 · Early bird 30% off before 5 September
     </p>
     <p class="mt-2 text-white/70 text-sm">
       <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Design%20Course" class="underline hover:text-white">Apply for a scholarship</a>
@@ -81,7 +81,7 @@ layout: plain
       <li><strong>Where:</strong> Online</li>
       <li><strong>Recordings:</strong> Available for anyone who can't attend live</li>
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
-      <li><strong>Price:</strong> €250 · Early bird 30% off before 15 August</li>
+      <li><strong>Price:</strong> €250 · Early bird 30% off before 5 september </li>
     </ul>
     <!-- Interest CTA hidden until this section is ready
     <div class="mt-8 text-center">
