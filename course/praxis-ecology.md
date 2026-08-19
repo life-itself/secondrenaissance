@@ -113,7 +113,7 @@ layout: plain
         <span class="font-bold text-gray-900"> Just Sitting </span>: bearing witness to what's present and cultivate the  disposition to receive 
       </li>
       <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Activating the Body</span>: 
+        <span class="font-bold text-gray-900">Activating the Body</span>: from personal awareness to collective impact 
       </li>
       <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Moving Together</span>: building shared rhythms, roles, and coordination
@@ -126,7 +126,7 @@ layout: plain
       </li>
     </ul>
     <p class="mt-8 text-xl text-gray-600 leading-relaxed">
-      Each session guides participants to design their own Minimum Viable Practice, culminating in a sixth live session where the full cohort presents their individual Praxis Ecology designs, plans that can be applied to settings ranging from a one-week retreat to a three-day gathering, a three-month co-living experiment, or ongoing community life.
+      Each session guides participants to design their own Minimum Viable Practice ( MVP) , culminating in a sixth live session where the full cohort presents their individual Praxis Ecology designs, plans that can be applied to settings ranging from a one-week retreat to a three-day gathering, a three-month co-living experiment, or ongoing community life.
     </p>
   </section>
 
@@ -158,7 +158,13 @@ layout: plain
     </ul>
   </section>
 
-  <!-- WHAT YOU'LL GET — hidden until content ready
+  <!-- WHAT it is really about : a praxis as a theory of change 
+Rather than thinking our way through community building, this proposition is grounded in a different way of relating—one that reshapes how we connect with one another outside of conversations. It is not only about how we think, but about how we move and act together in daily life.
+It involves an ongoing oscillation between self-expression and collective service—an interplay that expands our sense of self and allows new ways of thinking to emerge.
+This is both a praxis that responds to a reality of uncertainty, and one that also has the capacity to deconstruct it—through a lived experience of connection, and a reconciliation with abundance that emerges from community.
+
+ 
+  — hidden until content ready
   <section>
     <h2 class="text-3xl md:text-5xl mb-10 text-center">What you'll come away with</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
