@@ -40,7 +40,7 @@ layout: plain
       Starting 15 September 2026 · €250 · Early bird 30% off before 5 September
     </p>
     <p class="mt-2 text-white/70 text-sm">
-      <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Design%20Course" class="underline hover:text-white">Apply for a scholarship</a>
+      <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Design%20Course" class="underline hover:text-white">Apply for a scholarship by sharing at Praxis@lifeitself.org </a>
     </p>
     <p class="mt-6 text-white/70 text-sm">
       <a href="/course/praxis-ecology-fr" class="underline hover:text-white">en français &rarr;</a>
@@ -77,9 +77,8 @@ layout: plain
     <h2 class="text-3xl md:text-4xl mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
       <li><strong>When:</strong> Starting 15 September 2026</li>
-      <li><strong>Format:</strong> 6 sessions across 3 months</li>
+      <li><strong>Format:</strong> 6 sessions across 2,5 months</li>
       <li><strong>Where:</strong> Online</li>
-      <li><strong>Recordings:</strong> Available for anyone who can't attend live</li>
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
       <li><strong>Price:</strong> €250 · Early bird 30% off before 5 september </li>
     </ul>
@@ -104,17 +103,17 @@ layout: plain
     <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
     <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
     <p class="text-xl text-gray-600 leading-relaxed">
-      The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across three months, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
+      The program opens with a free, introductory session and a previoulsy sent recorded 1 hour webinar, exploring the ethos of zen monastic daily life and how it inspires a praxis  for consious community building. . It then unfolds over six sessions across 2,5  months, combining short self-paced videos, support documents and links  with live sessions led by Valérie every two weeks.
     </p>
     <p class="mt-6 text-xl text-gray-600 leading-relaxed">
       At the center of the course is the ARC, a set of five Minimum Viable Practices that participants use to build their own project:
     </p>
     <ul class="mt-8 space-y-5 list-none pl-0">
       <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Sitting in the Trouble</span>: staying present with difficulty rather than reacting or escaping
+        <span class="font-bold text-gray-900"> Just Sitting </span>: bearing witness to what's present and cultivate the  disposition to receive 
       </li>
       <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Activating the Body</span>: using embodiment to stabilize awareness and ground action
+        <span class="font-bold text-gray-900">Activating the Body</span>: 
       </li>
       <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Moving Together</span>: building shared rhythms, roles, and coordination
