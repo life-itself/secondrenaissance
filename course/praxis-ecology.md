@@ -1,6 +1,7 @@
 ---
 title: Praxis Ecology Design Course
-   description: "Praxis Ecology Design Course with Valérie Duvauchelle. Designing responsive conscious community: the secular monasteries of a Second Renaissance. Starting 15 September 2026."
+   description :"Praxis Ecology Design Course with Valérie Duvauchelle. 
+   Designing responsive conscious community : the secular monasteries of a second renaissance. Starting 15 spetember 2026 ." 
 image: /assets/img/course/praxis-ecology.jpeg
 layout: plain
 ---
