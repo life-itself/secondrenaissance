@@ -101,7 +101,7 @@ layout: plain
   <!-- COURSE STRUCTURE -->
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
-    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
+    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 2,5 months</p>
     <p class="text-xl text-gray-600 leading-relaxed">
       The program opens with a free, introductory session and a previoulsy sent recorded 1 hour webinar, exploring the ethos of zen monastic daily life and how it inspires a praxis  for consious community building. . It then unfolds over six sessions across 2,5  months, combining short self-paced videos, support documents and links  with live sessions led by Valérie every two weeks.
     </p>
