@@ -1,6 +1,6 @@
 ---
 title: "Praxis Ecology Design Course"
-description: "Praxis Ecology Design Course with Valérie Duvauchelle. Designing responsive conscious community: the secular monasteries of a Second Renaissance. Starting 15 September 2026."
+description: "Praxis Ecology Design Course with Valérie Duvauchelle. A practical course for designing conscious community. Starting 22 September 2026 — free intro webinar 15 September."
 image: /assets/img/course/praxis-ecology.jpeg
 layout: plain
 ---
@@ -21,7 +21,7 @@ layout: plain
       Praxis Ecology Design Course
     </h1>
     <p class="mt-6 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-      Designing responsive conscious community — the secular monasteries of a Second Renaissance
+      A practical course for designing conscious community — how you eat, move, and stay present together, day to day
     </p>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
@@ -37,7 +37,10 @@ layout: plain
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      Starting 15 September 2026 · €250 · Early bird 30% off before 15 August
+      Starting 22 September 2026 · €250 · Early bird 30% off before 8 September
+    </p>
+    <p class="mt-2 text-white/70 text-sm">
+      Not sure yet? <a href="https://luma.com/praxis-ecology-webinar" class="underline hover:text-white">Join the free intro webinar, 15 September</a>
     </p>
     <p class="mt-2 text-white/70 text-sm">
       <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Design%20Course" class="underline hover:text-white">Apply for a scholarship</a>
@@ -76,12 +79,12 @@ layout: plain
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-4xl mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
-      <li><strong>When:</strong> Starting 15 September 2026</li>
-      <li><strong>Format:</strong> 6 sessions across 3 months</li>
+      <li><strong>When:</strong> 22 September – 1 December 2026 · free intro webinar 15 September</li>
+      <li><strong>Format:</strong> 6 sessions across 10 weeks</li>
       <li><strong>Where:</strong> Online</li>
       <li><strong>Recordings:</strong> Available for anyone who can't attend live</li>
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
-      <li><strong>Price:</strong> €250 · Early bird 30% off before 15 August</li>
+      <li><strong>Price:</strong> €250 · Early bird 30% off before 8 September</li>
     </ul>
     <!-- Interest CTA hidden until this section is ready
     <div class="mt-8 text-center">
@@ -102,9 +105,9 @@ layout: plain
   <!-- COURSE STRUCTURE -->
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
-    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
+    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 10 weeks</p>
     <p class="text-xl text-gray-600 leading-relaxed">
-      The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across three months, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
+      The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across ten weeks, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
     </p>
     <p class="mt-6 text-xl text-gray-600 leading-relaxed">
       At the center of the course is the ARC, a set of five Minimum Viable Practices that participants use to build their own project:
@@ -159,25 +162,24 @@ layout: plain
     </ul>
   </section>
 
-  <!-- WHAT YOU'LL GET — hidden until content ready
+  <!-- WHAT YOU'LL GET -->
   <section>
     <h2 class="text-3xl md:text-5xl mb-10 text-center">What you'll come away with</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#FE7C47]">
-        <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 1]</h3>
-        <p class="text-gray-600">[description]</p>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Your own working design</h3>
+        <p class="text-gray-600">Adapted to your real context — a retreat, a coliving experiment, or an ongoing community.</p>
       </div>
       <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#FE7C47]">
-        <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 2]</h3>
-        <p class="text-gray-600">[description]</p>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">A real ecology of practice</h3>
+        <p class="text-gray-600">Food, body, structure, daily life, and relationship — woven together, not separate modules.</p>
       </div>
       <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#FE7C47]">
-        <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 3]</h3>
-        <p class="text-gray-600">[description]</p>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Grounded in real experience</h3>
+        <p class="text-gray-600">Built from what Life Itself has actually learned running residencies, not theory.</p>
       </div>
     </div>
   </section>
-  -->
 
   <!-- MODULES / SESSIONS — hidden until content ready
   <section>
@@ -247,35 +249,34 @@ layout: plain
     </div>
   </section>
 
-  <!-- IS THIS FOR YOU — hidden until content ready
+  <!-- IS THIS FOR YOU -->
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-5xl mb-8">Is this for you?</h2>
     <ul class="space-y-5 list-none pl-0">
       <li class="flex gap-4 items-start">
         <span class="text-[#FE7C47] font-bold text-xl mt-0.5">&rarr;</span>
-        <span class="text-xl text-gray-700">[audience point 1]</span>
+        <span class="text-xl text-gray-700">You already know the inner work matters — you're looking for the structure to actually live it, not just practice it alone.</span>
       </li>
       <li class="flex gap-4 items-start">
         <span class="text-[#FE7C47] font-bold text-xl mt-0.5">&rarr;</span>
-        <span class="text-xl text-gray-700">[audience point 2]</span>
+        <span class="text-xl text-gray-700">You're building or dreaming of a retreat, coliving space, or intentional community — and want a real recipe, not just inspiration.</span>
       </li>
       <li class="flex gap-4 items-start">
         <span class="text-[#FE7C47] font-bold text-xl mt-0.5">&rarr;</span>
-        <span class="text-xl text-gray-700">[audience point 3]</span>
+        <span class="text-xl text-gray-700">You've tried living collectively before and it didn't hold — you're ready to understand why, and do it differently.</span>
       </li>
     </ul>
-    <p class="mt-8 text-lg text-gray-400 italic">[reassurance line]</p>
+    <p class="mt-8 text-lg text-gray-400 italic">Not sure which one is you? Most people are more than one.</p>
   </section>
-  -->
 
-  <!-- FINAL CTA — hidden until content ready
+  <!-- FINAL CTA -->
   <section class="bg-gray-900 rounded-3xl p-8 md:p-12 text-center text-white">
     <h2 class="text-4xl sm:text-5xl font-bold leading-tight">
-      [closing headline]<br>
-      <span class="inline-block mt-3 bg-[#FE7C47] text-white px-4 py-2">[emphasised close]</span>
+      Something new is already emerging in how we live together.<br>
+      <span class="inline-block mt-3 bg-[#FE7C47] text-white px-4 py-2">Come design it with us.</span>
     </h2>
     <p class="mt-6 text-xl text-white/70">
-      [one-line summary]
+      A working structure for collective life — not a theory of one.
     </p>
     <div class="mt-8">
       <a
@@ -288,7 +289,7 @@ layout: plain
       </a>
     </div>
     <p class="mt-6 text-white/40 text-sm">
-      €250 · Early bird 30% off before 15 August · Questions? hello@lifeitself.org
+      €250 · Early bird 30% off before 8 September · Questions? praxis@lifeitself.org
     </p>
     <div class="mt-8 text-white/30 text-sm">
       <a href="https://secondrenaissance.net" class="underline hover:text-white/60">secondrenaissance.net</a>
@@ -296,7 +297,6 @@ layout: plain
       <a href="https://secondrenaissance.net/paper" class="underline hover:text-white/60">Download the whitepaper</a>
     </div>
   </section>
-  -->
 
   <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
 
