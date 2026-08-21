@@ -1,6 +1,6 @@
 ---
-title: "Praxis Ecology Design Course"
-description: "Praxis Ecology Design Course with Valérie Duvauchelle. A practical course for designing conscious community. Starting 22 September 2026 — free intro webinar 15 September."
+title: "Praxis Ecology Course"
+description: "Praxis Ecology Course with Valérie Duvauchelle. A Frame to Live in Conscious Community — grounded in the practice of daily life. Starting 22 September 2026 — free intro webinar 15 September."
 image: /assets/img/course/praxis-ecology.jpeg
 layout: plain
 ---
@@ -18,10 +18,10 @@ layout: plain
       New course · With Valérie Duvauchelle
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
-      Praxis Ecology Design Course
+      Praxis Ecology Course
     </h1>
     <p class="mt-6 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-      A practical course for designing conscious community — how you eat, move, and stay present together, day to day
+      A Frame to Live in Conscious Community — grounded in the practice of daily life
     </p>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
