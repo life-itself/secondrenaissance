@@ -77,7 +77,7 @@ layout: plain
               <source src="/assets/video/valerie-duvauchelle-promo.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
-            <p class="mt-4 text-center px-caps text-sm text-[#F6E7C8]">A word from Valérie</p>
+            <p class="mt-4 text-center px-caps text-base text-[#F6E7C8]">A word from Valérie</p>
           </div>
         </div>
       </div>
@@ -110,8 +110,8 @@ layout: plain
               alt="Valérie Duvauchelle"
               class="w-full rounded-2xl object-cover shadow-xl shadow-black/20"
             />
-            <p class="px-caps text-sm text-[#F6E7C8] mt-5">Valérie Duvauchelle</p>
-            <p class="text-white/80 mt-1">Contemplative activist · Secular Zen nun</p>
+            <p class="px-caps text-lg text-[#F6E7C8] mt-5">Valérie Duvauchelle</p>
+            <p class="px-body text-white/85 mt-2">Contemplative activist · Secular Zen nun</p>
           </div>
           <div class="sm:col-span-2">
             <p class="px-body text-white/95">
@@ -142,7 +142,7 @@ layout: plain
           <div class="px-sand rounded-2xl p-7 border-l-4 border-[#C9A961]">
             <p class="px-tag mb-4">Free · Live · Recorded</p>
             <h3 class="px-display text-3xl mb-2">Free introductory webinar</h3>
-            <p class="text-[#8A6B3F] mb-4 italic">separate from the course itself</p>
+            <p class="px-body text-[#8A6B3F] mb-4 italic">separate from the course itself</p>
             <p class="px-body text-gray-700">
               A free, 1-hour live session with Valérie — an overview and taster of the course: what Praxis Ecology is, how it grew out of Life Itself's residencies, and what's actually in the six sessions — so you can see whether it fits your situation before committing. Free · Live · Recording available afterward.
             </p>
@@ -255,23 +255,23 @@ layout: plain
           <p class="px-label text-[#B0812F] mb-4">The take-home</p>
           <h2 class="px-display text-4xl md:text-6xl">What you'll come away with</h2>
         </div>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
-          <div class="bg-white rounded-2xl p-8 border border-[#E4D3BC] relative overflow-hidden">
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 lg:-mx-16">
+          <div class="bg-white rounded-2xl p-7 border border-[#E4D3BC] relative overflow-hidden">
             <div class="absolute inset-x-0 top-0 h-1 px-grad"></div>
             <span class="px-numeral">01</span>
-            <h3 class="px-display text-2xl mt-3 mb-3">Your own working design</h3>
+            <h3 class="px-display text-3xl mt-3 mb-3">Your own working design</h3>
             <p class="px-body text-gray-600">Adapted to your real context — a retreat, a coliving experiment, or an ongoing community.</p>
           </div>
-          <div class="bg-white rounded-2xl p-8 border border-[#E4D3BC] relative overflow-hidden">
+          <div class="bg-white rounded-2xl p-7 border border-[#E4D3BC] relative overflow-hidden">
             <div class="absolute inset-x-0 top-0 h-1 px-grad"></div>
             <span class="px-numeral">02</span>
-            <h3 class="px-display text-2xl mt-3 mb-3">A real ecology of practice</h3>
+            <h3 class="px-display text-3xl mt-3 mb-3">A real ecology of practice</h3>
             <p class="px-body text-gray-600">Food, body, structure, daily life, and relationship — woven together, not separate modules.</p>
           </div>
-          <div class="bg-white rounded-2xl p-8 border border-[#E4D3BC] relative overflow-hidden">
+          <div class="bg-white rounded-2xl p-7 border border-[#E4D3BC] relative overflow-hidden">
             <div class="absolute inset-x-0 top-0 h-1 px-grad"></div>
             <span class="px-numeral">03</span>
-            <h3 class="px-display text-2xl mt-3 mb-3">Grounded in real experience</h3>
+            <h3 class="px-display text-3xl mt-3 mb-3">Grounded in real experience</h3>
             <p class="px-body text-gray-600">Built from what Life Itself has actually learned running residencies, not theory.</p>
           </div>
         </div>
@@ -391,7 +391,7 @@ layout: plain
             </ul>
           </div>
         </div>
-        <p class="mt-6 text-[#6B5245] italic">
+        <p class="mt-6 px-body text-[#6B5245] italic">
           Praxis Ecology approaches this differently. Instead of starting from ideals, it starts from reality.
         </p>
         <p class="mt-10 px-display text-3xl sm:text-4xl text-[#3B241C] leading-snug">
@@ -500,10 +500,10 @@ layout: plain
             Free intro webinar
           </a>
         </div>
-        <p class="mt-10 text-white/85">
+        <p class="mt-10 px-body text-white/85">
           €250 · Early bird 30% off before 8th September
         </p>
-        <div class="mt-8 text-white/70">
+        <div class="mt-8 px-body text-white/70">
           <a href="https://secondrenaissance.net" class="underline underline-offset-4 hover:text-white">secondrenaissance.net</a>
           <span class="mx-3">·</span>
           <a href="https://secondrenaissance.net/paper" class="underline underline-offset-4 hover:text-white">Download the whitepaper</a>
