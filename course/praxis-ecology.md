@@ -224,7 +224,7 @@ layout: plain
       <section class="max-w-2xl mx-auto">
         <p class="px-label text-[#B0812F] mb-4">Autumn 2026</p>
         <h2 class="px-display text-4xl md:text-5xl mb-6">Schedule</h2>
-        <p class="px-sched-item text-gray-600 italic mb-8">
+        <p class="px-body text-gray-600 italic mb-10">
           Free intro webinar: 15 September — optional, come as you are, no obligation to continue. The course schedule below starts separately on 22 September.
         </p>
         <ol class="list-none pl-0 m-0 border-l border-[#E4D3BC] ml-2">
@@ -240,9 +240,9 @@ layout: plain
           <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-2 h-2 rounded-full bg-[#E4D3BC]"></span><span class="px-sched-date text-[#8A6B3F]">24 Nov</span><span class="px-sched-item text-gray-500">Live session 5</span></li>
           <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-3 h-3 rounded-full bg-[#C9A961] ring-4 ring-[#C9A961]/20"></span><span class="px-sched-date text-[#8A6B3F]">1 Dec</span><span class="px-sched-item text-gray-900 font-medium">Live session 6 · cohort presentations</span></li>
         </ol>
-        <div class="mt-10 px-sand rounded-2xl p-7">
-          <p class="px-label text-[#8A6B3F] mb-4">Each module includes</p>
-          <ul class="space-y-1.5 px-sched-item text-gray-700 list-disc pl-5 m-0">
+        <div class="mt-12 px-sand rounded-2xl p-7">
+          <p class="px-label text-[#8A6B3F] mb-5">Each module includes</p>
+          <ul class="space-y-2 px-body text-gray-700 list-disc pl-5 m-0">
             <li>2 to 4 videos, including guest videos</li>
             <li>Supporting documents and links related to the theme</li>
             <li>Reflection questions to support your own design process</li>
