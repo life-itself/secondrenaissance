@@ -1,7 +1,7 @@
 ---
 title: "Praxis Ecology Course"
 description: "Praxis Ecology Course with Valérie Duvauchelle. A Frame to Live in Conscious Community — grounded in the practice of daily life. Starting 22 September 2026 — free intro webinar 15 September."
-image: /assets/img/course/praxis-ecology.jpeg
+image: /assets/img/course/praxis-ecology-social-preview.png
 layout: plain
 ---
 
