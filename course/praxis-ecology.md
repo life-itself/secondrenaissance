@@ -25,7 +25,7 @@ layout: plain
         A Frame to Live in Conscious Community — grounded in the practice of daily life
       </p>
       <p class="mt-8 px-body-lg text-white max-w-2xl mx-auto px-hero-text">
-        By the end, you'll have designed your own Praxis Ecology — a working structure for how your group eats, moves, organizes space and time, and stays present together.
+        By the end, you'll have designed your own Praxis Ecology — a working structure for how your group eats, moves, organizes, and stays present to the web of life.
       </p>
       <div class="mt-10 flex flex-wrap items-center justify-center gap-4">
         <a
