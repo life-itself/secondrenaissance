@@ -397,3 +397,21 @@ a.btn-outline-cream:hover {
   color: #ffffff !important;
   text-decoration: none !important;
 }
+
+/* --- Schedule: a compact 12-row list. At the larger body size the
+       stacked date/title rows ran long enough to make ten weeks feel
+       like a much bigger commitment than it is. --- */
+.px-sched-date {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, serif;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  width: 4.75rem;
+  flex: none;
+}
+
+.px-sched-item {
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
