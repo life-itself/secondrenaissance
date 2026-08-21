@@ -15,16 +15,16 @@ layout: plain
     />
     <div class="absolute inset-0 -z-10 px-hero-scrim"></div>
     <div class="mx-auto max-w-4xl px-6 lg:px-8 py-20 text-center text-white">
-      <p class="px-caps text-lg text-[#EFE2C2] mb-8 text-shadow-sm">
+      <p class="px-caps text-lg text-[#EFE2C2] mb-8 px-hero-text">
         New course · With Valérie Duvauchelle
       </p>
       <h1 class="px-display text-6xl sm:text-8xl tracking-tight text-white text-shadow">
         Praxis Ecology Course
       </h1>
-      <p class="mt-6 px-display text-3xl sm:text-4xl text-white max-w-3xl mx-auto leading-snug text-shadow-sm">
+      <p class="mt-6 px-display text-3xl sm:text-4xl text-white max-w-3xl mx-auto leading-snug px-hero-text">
         A Frame to Live in Conscious Community — grounded in the practice of daily life
       </p>
-      <p class="mt-8 px-body-lg text-white max-w-2xl mx-auto text-shadow-sm">
+      <p class="mt-8 px-body-lg text-white max-w-2xl mx-auto px-hero-text">
         By the end, you'll have designed your own Praxis Ecology — a working structure for how your group eats, moves, organizes space and time, and stays present together.
       </p>
       <div class="mt-10 flex flex-wrap items-center justify-center gap-4">
@@ -40,16 +40,16 @@ layout: plain
           Learn more
         </a>
       </div>
-      <p class="mt-8 text-white px-body text-shadow-sm">
+      <p class="mt-8 text-white px-body px-hero-text">
         Starting 22nd September 2026 · €250 · Early bird 30% off before 8th September
       </p>
-      <p class="mt-4 px-body text-white text-shadow-sm">
+      <p class="mt-4 px-body text-white px-hero-text">
         Not sure yet? <a href="https://luma.com/praxis-ecology-webinar-2026" class="underline decoration-[#EFE2C2]/60 underline-offset-4 hover:text-white">Join the free intro webinar, 15 September</a>
       </p>
-      <p class="mt-2 px-body text-white text-shadow-sm">
+      <p class="mt-2 px-body text-white px-hero-text">
         Apply for a scholarship by writing to <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Course" class="underline decoration-[#EFE2C2]/60 underline-offset-4 hover:text-white">praxis@lifeitself.org</a>
       </p>
-      <p class="mt-8 text-shadow-sm">
+      <p class="mt-8 px-hero-text">
         <a href="/course/praxis-ecology-fr" class="px-caps text-base text-white underline underline-offset-4 hover:text-white">en français &rarr;</a>
       </p>
     </div>
