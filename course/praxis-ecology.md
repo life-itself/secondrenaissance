@@ -114,7 +114,7 @@ layout: plain
     </p>
     <ul class="mt-8 space-y-5 list-none pl-0">
       <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Sitting in the Trouble</span>: staying present with difficulty rather than reacting or escaping
+        <span class="font-bold text-gray-900">Dynamic Emptiness</span>: bearing witness to what's present rather than reacting or escaping
       </li>
       <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Activating the Body</span>: using embodiment to stabilize awareness and ground action
