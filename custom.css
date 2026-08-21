@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap');
+
 /* Button Styles */
 .btn-primary,
 a.btn-primary {
@@ -59,4 +61,325 @@ a.btn-primary:hover {
   padding: 0.25rem 1.25rem;
   border-radius: 9999px;
   font-weight: 500;
+}
+
+/* ============================================================
+   Praxis Ecology course page
+   Palette taken from the course poster artwork: crimson -> orange
+   gradient, gold sun, sage foliage, cream ground. All rules are
+   scoped to .praxis so nothing else on the site is affected.
+   ============================================================ */
+
+.praxis {
+  --px-crimson: #F0322A;
+  --px-red: #F8492E;
+  --px-orange: #FA8B3C;
+  --px-gold: #C9A961;
+  --px-gold-soft: #D4BE8A;
+  --px-gold-pale: #EFE2C2;
+  --px-sage: #8FA383;
+  --px-cream: #FDF7EF;
+  --px-sand: #F6EADA;
+  --px-ink: #2A1712;
+}
+
+/* --- Display type: echoes the poster's tracked serif caps ---
+   The site body face is Crimson Text, which sets small, so the
+   label and body sizes below run larger than a sans would need. */
+.px-display {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, 'Times New Roman', serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  line-height: 1.05;
+}
+
+.px-caps {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, 'Times New Roman', serif;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 600;
+}
+
+/* Section eyebrow / kicker label */
+.px-label {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+}
+
+/* Key-info row label, needs to sit level with its value */
+.px-rowlabel {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, serif;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+  font-weight: 600;
+}
+
+/* Body copy: one step up from the theme default */
+.px-body {
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.px-body-lg {
+  font-size: 1.3rem;
+  line-height: 1.65;
+}
+
+/* --- Grounds --- */
+.px-grad {
+  background: linear-gradient(135deg, #F0322A 0%, #F8492E 38%, #FA8B3C 100%);
+}
+
+.px-grad-vert {
+  background: linear-gradient(170deg, #F0322A 0%, #F8492E 45%, #FA8B3C 100%);
+}
+
+/* Reversed, so consecutive orange bands don't read as one repeat */
+.px-grad-rev {
+  background: linear-gradient(135deg, #FA8B3C 0%, #F8492E 55%, #F0322A 100%);
+}
+
+.px-grad-soft {
+  background: linear-gradient(165deg, #FFEDDC 0%, #FBDCC6 50%, #F7CBB0 100%);
+}
+
+.px-cream {
+  background-color: #FDF7EF;
+}
+
+.px-sand {
+  background-color: #F6EADA;
+}
+
+/* --- Full-bleed colour band --- */
+.px-band {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+/* Oversized sun watermark sitting behind a band's content */
+.px-band-sun::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: -14%;
+  right: -10%;
+  width: 46rem;
+  height: 46rem;
+  max-width: 85vw;
+  max-height: 85vw;
+  background-image: url('/assets/img/course/praxis-sun-light.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.13;
+  pointer-events: none;
+}
+
+.px-band-sun-left::before {
+  right: auto;
+  left: -14%;
+  top: auto;
+  bottom: -22%;
+  opacity: 0.16;
+}
+
+.px-band-sun-gold::before {
+  background-image: url('/assets/img/course/praxis-sun.svg');
+  opacity: 0.22;
+}
+
+/* --- Divider carrying the sun motif --- */
+.px-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.px-divider::before,
+.px-divider::after {
+  content: '';
+  display: block;
+  width: 4.5rem;
+  height: 1px;
+}
+
+.px-divider::before {
+  background: linear-gradient(90deg, rgba(201,169,97,0), #C9A961);
+}
+
+.px-divider::after {
+  background: linear-gradient(90deg, #C9A961, rgba(201,169,97,0));
+}
+
+.px-sun {
+  display: block;
+  width: 1.6rem;
+  height: 1.6rem;
+  background-image: url('/assets/img/course/praxis-sun.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.px-sun-light {
+  background-image: url('/assets/img/course/praxis-sun-light.svg');
+}
+
+.px-divider-light::before {
+  background: linear-gradient(90deg, rgba(255,231,188,0), rgba(255,231,188,0.9));
+}
+
+.px-divider-light::after {
+  background: linear-gradient(90deg, rgba(255,231,188,0.9), rgba(255,231,188,0));
+}
+
+/* --- Numbered ARC practices --- */
+.px-numeral {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, serif;
+  font-size: 3rem;
+  line-height: 1;
+  color: #C9A961;
+  font-weight: 400;
+  font-variant-numeric: lining-nums;
+}
+
+/* --- Pull quote inside the long-read band --- */
+.px-quote {
+  font-family: 'Cormorant Garamond', Cormorant, Georgia, serif;
+  font-size: clamp(1.7rem, 3.4vw, 2.5rem);
+  line-height: 1.25;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* --- Sub-heading rule used through the essay --- */
+.px-subhead {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.px-subhead::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(201,169,97,0.7), rgba(201,169,97,0));
+}
+
+/* --- Sage tag --- */
+.px-tag {
+  display: inline-block;
+  background-color: rgba(143,163,131,0.16);
+  color: #5F7254;
+  border: 1px solid rgba(143,163,131,0.35);
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 0.25rem 0.9rem;
+  border-radius: 9999px;
+}
+
+.px-tag-light {
+  background-color: rgba(255,255,255,0.18);
+  color: #FFF3E0;
+  border-color: rgba(255,231,188,0.5);
+}
+
+/* --- Hero: the photograph carries its own colour, with only a
+       scrim for legibility. No colour wash over faces. --- */
+.px-hero-img {
+  filter: saturate(1.04) contrast(1.02);
+}
+
+.px-hero-scrim {
+  background:
+    linear-gradient(to bottom, rgba(20,8,4,0.52) 0%, rgba(20,8,4,0.28) 38%, rgba(20,8,4,0.78) 100%);
+}
+
+/* --- Buttons in the course palette --- */
+.praxis .btn-primary,
+.praxis a.btn-primary {
+  background-color: #F0322A;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.praxis .btn-primary:hover,
+.praxis a.btn-primary:hover {
+  background-color: #D2231C;
+}
+
+.btn-cream,
+a.btn-cream {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  background-color: #FDF7EF;
+  color: #C2251D !important;
+  padding: 0.4rem 0.5rem 0.4rem 1.15rem;
+  border-radius: 9999px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.btn-cream:hover,
+a.btn-cream:hover {
+  background-color: #ffffff;
+  color: #C2251D !important;
+  text-decoration: none !important;
+}
+
+.btn-cream::after {
+  content: '\2192';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  background-color: rgba(240,50,42,0.14);
+  border-radius: 9999px;
+  font-size: 1rem;
+  transition: font-size 0.15s ease;
+}
+
+.btn-cream:hover::after {
+  font-size: 1.3rem;
+}
+
+/* --- Outline button for secondary actions on dark grounds --- */
+.btn-outline-cream,
+a.btn-outline-cream {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  border: 1px solid rgba(255,255,255,0.6);
+  color: #ffffff !important;
+  padding: 0.5rem 1.6rem;
+  border-radius: 9999px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-outline-cream:hover,
+a.btn-outline-cream:hover {
+  background-color: rgba(255,255,255,0.14);
+  border-color: #ffffff;
+  color: #ffffff !important;
+  text-decoration: none !important;
 }
