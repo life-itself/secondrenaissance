@@ -177,7 +177,7 @@ layout: plain
             <span class="px-numeral text-[#FFE7BC] shrink-0">1</span>
             <div>
               <h3 class="px-display text-3xl sm:text-4xl text-white mb-3">Vacuité dynamique</h3>
-              <p class="px-body text-white/95">Faire acte de présence en restant simplement assis·e avec ce qui se passe, plutôt que de réagir ou de fuir. Prendre au sérieux la vacuité comme le sol nécessaire à la capacité de réponse.</p>
+              <p class="px-body text-white/95"> Comment passer du developpement personnel à l'intuition collective et considérer la vacuité comme le sol nécessaire à notre  capacité d'ajustement  collectif .</p>
             </div>
           </li>
           <li class="flex gap-5 sm:gap-8 items-start border-t border-white/25 pt-8">
@@ -197,7 +197,7 @@ layout: plain
           <li class="flex gap-5 sm:gap-8 items-start border-t border-white/25 pt-8">
             <span class="px-numeral text-[#FFE7BC] shrink-0">4</span>
             <div>
-              <h3 class="px-display text-3xl sm:text-4xl text-white mb-3">Cuisiner ensemble</h3>
+              <h3 class="px-display text-3xl sm:text-4xl text-white mb-3"> un systeme nourricier en consience </h3>
               <p class="px-body text-white/95">Organiser l'alimentation comme une pratique collective quotidienne qui ancre la vie partagée.</p>
             </div>
           </li>
