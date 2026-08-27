@@ -58,15 +58,14 @@ layout: plain
       These feel like separate problems — but what if they share the same root cause?
     </p>
     <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
-      This course gives you a framework for seeing the whole picture — what thinkers call the
-      <strong class="text-gray-900">metacrisis</strong>: the interconnected breakdown of the systems,
+      This course gives you a framework for seeing the whole picture — the
+      <strong><a src="https://metacrisis.info">metacrisis</a></strong>: the interconnected breakdown of the systems,
       values, and stories that hold our civilisation together. And alongside that diagnosis, a reason for
       genuine hope: the <strong class="text-gray-900">Second Renaissance</strong>, the renewal that's
       already quietly emerging in response.
     </p>
     <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
-      Not another hot take. Not doom, not denial. A grounded, coherent way of seeing — and a community
-      of others who see it too.
+      This course offers a grounded, coherent way of seeing — and a community of others who see it too. It recognizes the challenges we face including the possibility of collapse whilst avoiding descending into doom or denial and offering <strong>rigorous, credible hope</strong>. 
     </p>
     <p class="mt-8 text-2xl sm:text-3xl font-bold text-gray-900">
       Understanding the breakdown. Discovering the renewal.
