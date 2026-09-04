@@ -176,7 +176,7 @@ layout: plain
           <li class="flex gap-5 sm:gap-8 items-start border-t border-white/25 pt-8">
             <span class="px-numeral text-[#FFE7BC] shrink-0">1</span>
             <div>
-              <h3 class="px-display text-3xl sm:text-4xl text-white mb-3">Sitting in the trouble </h3>
+              <h3 class="px-display text-3xl sm:text-4xl text-white mb-3">Interbeing care</h3>
               <p class="px-body text-white/95"> Embracing paradoxes - Bearing witness as the necessary ground for responsivity.</p>
             </div>
           </li>
@@ -228,7 +228,7 @@ layout: plain
           Free intro webinar: 15 September — optional, come as you are, no obligation to continue. The course schedule below starts separately on 22 September.
         </p>
         <ol class="list-none pl-0 m-0 border-l border-[#E4D3BC] ml-2">
-          <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-2.5 h-2.5 rounded-full bg-[#C9A961]"></span><span class="px-sched-date text-[#8A6B3F]">22 Sep</span><span class="px-sched-item text-gray-900 font-medium">Module 1 · Sitting in the trouble </span></li>
+          <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-2.5 h-2.5 rounded-full bg-[#C9A961]"></span><span class="px-sched-date text-[#8A6B3F]">22 Sep</span><span class="px-sched-item text-gray-900 font-medium">Module 1 · Interbeing care  </span></li>
           <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-2 h-2 rounded-full bg-[#E4D3BC]"></span><span class="px-sched-date text-[#8A6B3F]">29 Sep</span><span class="px-sched-item text-gray-500">Live session 1</span></li>
           <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-2.5 h-2.5 rounded-full bg-[#C9A961]"></span><span class="px-sched-date text-[#8A6B3F]">6 Oct</span><span class="px-sched-item text-gray-900 font-medium">Module 2 · Activating the Body</span></li>
           <li class="relative pl-7 py-2 flex flex-wrap items-baseline gap-x-3"><span class="absolute left-0 top-1/2 -translate-x-1/2 -translate-y-1/2 w-2 h-2 rounded-full bg-[#E4D3BC]"></span><span class="px-sched-date text-[#8A6B3F]">13 Oct</span><span class="px-sched-item text-gray-500">Live session 2</span></li>
