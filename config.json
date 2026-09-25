@@ -28,7 +28,8 @@
         "links": [
           { "href": "/course/praxis-ecology", "name": "Praxis: Ecology" },
           { "href": "/course/praxis-ecology-fr", "name": "Praxis Ecology (en français)" },
-          { "href": "/course", "name": "Intro to the Metacrisis" }
+          { "href": "/course", "name": "Intro to the Metacrisis" },
+          { "href": "/course/collective-action", "name": "Intro to Collective Action" }
         ]
       },
       {
