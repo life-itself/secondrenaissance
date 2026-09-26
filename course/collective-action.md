@@ -1,6 +1,6 @@
 ---
 title: Intro to Collective Action
-description: Six sessions on why cooperation fails, how we manage it anyway, and how it has been made to work at larger and larger scales.
+description: A short online course on why cooperation fails, how it succeeds, and how it scales – from arms races and the commons to AI, climate and the metacrisis.
 image: /assets/img/course/collective-action-social-preview.jpg
 ---
 
@@ -8,40 +8,43 @@ image: /assets/img/course/collective-action-social-preview.jpg
 
 <figure>
   <img src="/assets/img/course/collective-action-hero.jpg" alt="Earthrise, photographed from lunar orbit by Apollo 8" />
-  <figcaption class="text-center text-sm text-gray-500">Earthrise, Apollo 8, 1968. At planetary scale there is no outside group left to cooperate against. (William Anders / NASA, public domain)</figcaption>
+  <figcaption class="text-center text-sm text-gray-500">Earthrise, Apollo 8, 1968. Every past jump in cooperation joined smaller groups into bigger ones. The next one is the whole planet. (William Anders / NASA, public domain)</figcaption>
 </figure>
 
-An introduction to collective action problems and opportunities, with applications to AI governance, climate change, nuclear weapons and the information commons.
+Humans cooperate at a scale no other animal does. We went from bands of a few dozen to villages, cities and nations of millions, and each jump came from new institutions and culture: ritual, kinship, law, money, the state. We also fail to cooperate in ways that could be catastrophic: arms races, overused commons, the race to build AI. These are collective action problems (sometimes called Moloch, or the multipolar trap) and they sit underneath the [metacrisis](https://metacrisis.info). This course looks at both sides: why cooperation fails, how it has been made to work, and what it would take at planetary scale.
 
 <a href="https://luma.com/iydwcpau" class="btn-primary">Sign up</a>
 
 | | |
 |---|---|
+| **Format** | Short online course, six sessions of 90 minutes |
 | **Dates** | Wednesday 7 to Wednesday 14 October 2026, weekdays only |
-| **Time** | 15:30–17:00 CEST, six sessions of 90 minutes |
-| **Where** | Online |
+| **Time** | 15:30–17:00 CEST |
 | **Price** | €20, refunded if you attend all six sessions |
 | **Led by** | Rufus Pollock — Life Itself co-founder, Cambridge economist (PhD), co-initiator of the Second Renaissance project |
 
 This is a prototype. The material is being developed as the course runs, and the outline below will change.
 
-## About
+> **From arms races to planetary cooperation.**
+> Moloch, the metacrisis, and how cooperation scales.
 
-Collective action failure is the central pattern of dysfunction underneath the [metacrisis](https://metacrisis.info). It's underneath climate change, the AI arms race, nuclear weapons and bioweapons. It's also underneath things like nihilism and loneliness that we don't usually associate with those.
+## About
 
 <figure>
   <img src="/assets/img/course/collective-action-nagasaki.jpg" alt="Mushroom cloud over Nagasaki, 9 August 1945" class="mx-auto max-h-[28rem]" />
   <figcaption class="text-center text-sm text-gray-500">Nagasaki, 9 August 1945. Every side in an arms race would be better off without one, and none can stop alone. (US Government, public domain)</figcaption>
 </figure>
 
-To the extent we're interested in collective action *problems* it is because we want *solutions*. But we have to start with diagnosis: what is a collective action failure — and success — and what causes them. We then look at what could be done, and especially at what made cooperation work at larger and larger scales.
+The same structure shows up in climate change, the AI race, nuclear weapons and bioweapons: each party does what makes sense for it, and the combined result is something none of them want. The course starts there, with the basic dynamics and the vocabulary for them.
+
+But a collective action problem is also a collective action opportunity. The reason to understand failure is to get better at success, and most of the course is about how cooperation has actually been made to work.
 
 <figure>
   <img src="/assets/img/course/collective-action-bali-rice-terraces.jpg" alt="Rice terraces in Bali" class="mx-auto max-h-[28rem]" />
   <figcaption class="text-center text-sm text-gray-500">Bali's subak irrigation system has shared water between thousands of farmers for over a thousand years, coordinated through a network of water temples. (Photo: Radoslav Bali, Unsplash)</figcaption>
 </figure>
 
-Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. Cultural evolution is how collective action gets solved at scale. The last two sessions are about what that implies for the jump we currently need to make: to planetary cooperation.
+Communities govern commons for centuries. States, markets and treaties hold strangers together. Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. The last two sessions ask what that implies for the jump we now need to make: to planetary cooperation.
 
 ## Course outline
 
@@ -106,12 +109,19 @@ What would cooperation at planetary scale require? Do we need a planetary religi
 - Enlarging the sphere of moral concern at each cultural paradigm shift
 - Thich Nhat Hanh and a new religion of Interbeing
 
+## What you'll come away with
+
+- A working vocabulary: prisoner's dilemma, stag hunt, tragedy of the commons, free riding, multipolar trap
+- The main answers to "how does cooperation happen at all?", from repeated interaction and Ostrom's commons to the state and the treaty
+- A picture of how cultural evolution has scaled cooperation, and what it has cost
+- A way to look at AI, climate and nuclear risk as cooperation challenges, with a sense of what has and hasn't worked
+
 ## Who it's for
 
-Anyone interested in what lies beneath some of the greatest challenges and opportunities of our time, from AI governance to climate change.
+Anyone interested in what lies beneath some of the biggest challenges and opportunities of our time, from AI governance to climate change.
 
-You might be interested if you work on or care about the commons, institutional design, cultural evolution, community-building, or technology governance.
+You might be interested if you work on or care about the commons, institutional design, cultural evolution, community-building, or technology governance — or if you've come across Moloch or the metacrisis and want to go a level deeper into the mechanics.
 
-No prior game theory needed.
+No prior game theory or economics needed.
 
 <a href="https://luma.com/iydwcpau" class="btn-primary">Sign up</a>
