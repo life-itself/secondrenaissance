@@ -11,7 +11,7 @@ image: /assets/img/course/collective-action-social-preview.jpg
   <figcaption class="text-center text-sm text-gray-500">Earthrise, Apollo 8, 1968. Every past jump in cooperation joined smaller groups into bigger ones. The next one is the whole planet. (William Anders / NASA, public domain)</figcaption>
 </figure>
 
-Humans cooperate at a scale no other animal does. We went from bands of a few dozen to villages, cities and nations of millions, and each jump came from new institutions and culture: ritual, kinship, law, money, the state. We also fail to cooperate in ways that could be catastrophic: arms races, overused commons, the race to build AI. These are collective action problems (sometimes called Moloch, or the multipolar trap) and they sit underneath the [metacrisis](https://metacrisis.info). This course looks at both sides: why cooperation fails, how it has been made to work, and what it would take at planetary scale.
+Humans cooperate at a scale no other animal does. We went from bands of a few dozen to villages, cities and nations of millions, and each jump came from new institutions and culture: ritual, kinship, law, money, the state. We also fail to cooperate in ways that could be catastrophic: arms races, overused commons, the race to build AI. These are collective action problems (sometimes called Moloch, or the multipolar trap) and they are a central pattern of dysfunction in the [metacrisis](https://metacrisis.info). Addressing them is a key part of [civilizational renewal](/). This course looks at both sides: why cooperation fails, how it has been made to work, and what it would take at planetary scale.
 
 <a href="https://luma.com/iydwcpau" class="btn-primary">Sign up</a>
 
