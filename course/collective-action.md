@@ -31,18 +31,13 @@ This is a prototype. The material is being developed as the course runs, and the
 ## About
 
 <figure>
-  <img src="/assets/img/course/collective-action-nagasaki.jpg" alt="Mushroom cloud over Nagasaki, 9 August 1945" class="mx-auto max-h-[28rem]" />
-  <figcaption class="text-center text-sm text-gray-500">Nagasaki, 9 August 1945. Every side in an arms race would be better off without one, and none can stop alone. (US Government, public domain)</figcaption>
+  <img src="/assets/img/course/collective-action-arms-race-and-commons.jpg" alt="Left: mushroom cloud over Nagasaki, 1945. Right: rice terraces in Bali" />
+  <figcaption class="text-center text-sm text-gray-500">The same problem, two outcomes. Left: Nagasaki, 9 August 1945 – every side in an arms race would be better off without one, and none can stop alone. Right: Bali's subak terraces, where thousands of farmers have shared water for over a thousand years, coordinated through a network of water temples. (US Government, public domain; Radoslav Bali, Unsplash)</figcaption>
 </figure>
 
-The same structure shows up in climate change, the AI race, nuclear weapons and bioweapons: each party does what makes sense for it, and the combined result is something none of them want. The course starts there, with the basic dynamics and the vocabulary for them.
+The structure behind an arms race shows up in climate change, the AI race and bioweapons: each party does what makes sense for it, and the combined result is something none of them want. The course starts there, with the basic dynamics and the vocabulary for them.
 
 But a collective action problem is also a collective action opportunity. The reason to understand failure is to get better at success, and most of the course is about how cooperation has actually been made to work.
-
-<figure>
-  <img src="/assets/img/course/collective-action-bali-rice-terraces.jpg" alt="Rice terraces in Bali" class="mx-auto max-h-[28rem]" />
-  <figcaption class="text-center text-sm text-gray-500">Bali's subak irrigation system has shared water between thousands of farmers for over a thousand years, coordinated through a network of water temples. (Photo: Radoslav Bali, Unsplash)</figcaption>
-</figure>
 
 Communities govern commons for centuries. States, markets and treaties hold strangers together. Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. The last two sessions ask what that implies for the jump we now need to make: to planetary cooperation.
 
