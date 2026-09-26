@@ -1,14 +1,19 @@
 ---
 title: Intro to Collective Action
 description: Six sessions on why cooperation fails, how we manage it anyway, and how it has been made to work at larger and larger scales.
-image: /assets/img/course/collective-action-bali-rice-terraces.jpg
+image: /assets/img/course/collective-action-social-preview.jpg
 ---
 
 # Intro to Collective Action
 
+<figure>
+  <img src="/assets/img/course/collective-action-hero.jpg" alt="Earthrise, photographed from lunar orbit by Apollo 8" />
+  <figcaption class="text-center text-sm text-gray-500">Earthrise, Apollo 8, 1968. At planetary scale there is no outside group left to cooperate against. (William Anders / NASA, public domain)</figcaption>
+</figure>
+
 An introduction to collective action problems and opportunities, with applications to AI governance, climate change, nuclear weapons and the information commons.
 
-<a href="https://luma.com/iydwcpau" class="btn-primary">Sign up →</a>
+<a href="https://luma.com/iydwcpau" class="btn-primary">Sign up</a>
 
 | | |
 |---|---|
@@ -101,11 +106,6 @@ What would cooperation at planetary scale require? Do we need a planetary religi
 - Enlarging the sphere of moral concern at each cultural paradigm shift
 - Thich Nhat Hanh and a new religion of Interbeing
 
-<figure>
-  <img src="/assets/img/course/collective-action-earthrise.jpg" alt="Earthrise, photographed from lunar orbit by Apollo 8" class="mx-auto max-h-[28rem]" />
-  <figcaption class="text-center text-sm text-gray-500">Earthrise, Apollo 8, 1968. At planetary scale there is no outside group left to cooperate against. (William Anders / NASA, public domain)</figcaption>
-</figure>
-
 ## Who it's for
 
 Anyone interested in what lies beneath some of the greatest challenges and opportunities of our time, from AI governance to climate change.
@@ -114,4 +114,4 @@ You might be interested if you work on or care about the commons, institutional 
 
 No prior game theory needed.
 
-<a href="https://luma.com/iydwcpau" class="btn-primary">Sign up →</a>
+<a href="https://luma.com/iydwcpau" class="btn-primary">Sign up</a>
