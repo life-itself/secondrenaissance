@@ -115,4 +115,23 @@ image: /assets/img/previews/papers-preview.jpg
     </div>
   </div>
 
+  <!-- Paper 6 -->
+  <!-- TBC: cover image and PDF link are placeholders until supplied; title, subtitle and authors not yet confirmed. -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="/papers/wisdom" class="shrink-0 md:w-64">
+      <img src="/assets/wisdom-cover-placeholder.jpg" alt="Paper 6 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
+    <div class="flex flex-col">
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 6</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">Wisdom for a 'Second Renaissance', Part 1: Wanting what's good</h3>
+      <p class="text-lg text-gray-500 italic mb-1">Pragmatic wisdom for a regenerative future</p>
+      <p class="text-sm text-gray-500 mb-3">Rufus Pollock, Rosie Bell & Sylvie Barbier · 2026</p>
+      <p class="text-gray-600 mb-6">Across the field(s) of thought and practice dedicated to cultural transition, wisdom is a word we often invoke, but seldom examine. In the first of two companion essays, we spend some time getting to know wisdom, considering its scarcity within the current, dominant cultural paradigm, and what it might mean as a foundational principle of a healthier future society.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/papers/wisdom" class="btn-primary">Read More</a>
+        <a href="https://drive.google.com/PLACEHOLDER-WISDOM-PDF" target="_blank" class="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2 rounded-full text-sm uppercase tracking-wide hover:bg-gray-100 no-underline">Full Paper (PDF)</a>
+      </div>
+    </div>
+  </div>
+
 </section>
