@@ -45,13 +45,19 @@ layout: plain
         We&rsquo;re gathering voices for the next issue of the Seeds of Renaissance Magazine
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
-        Old certainties are dissolving. In this time between worlds, one question remains: what is eternal?
+        Old certainties are dissolving. And in this time between worlds, one question remains: what is eternal?
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
-        After Impermanence and Mythos, the third issue turns toward Eternity: forever and the eternal now. Can we find the eternal inside impermanence, rather than in flight from it? And in an age that dreams of digital immortality, what is truly worth carrying forward?
+        After Impermanence and MYTHOS, the third issue of the Seeds of Renaissance Magazine turns toward Eternity.
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
-        We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features. Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
+        For centuries, eternity meant forever: immortality, heaven, the gold that does not tarnish, the stars we once believed would never die. But the mystics have always pointed somewhere else: to the eternal now, the timeless awareness beneath all change, the moment when self and world dissolve into one another.
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
+        What happens when these two eternities meet? Can we find the eternal inside impermanence, rather than in flight from it? And in an age that dreams of digital immortality, what is truly worth carrying forward?
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
+        We are gathering the voices of artists, poets, philosophers, scholars, and those who live their practice through ritual and prayer. We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features.
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
         You may have known it as the Second Renaissance Magazine. It is now renamed the Seeds of Renaissance Magazine.
