@@ -54,12 +54,14 @@ layout: plain
         We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features. Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
+        You may have known it as the Second Renaissance Magazine. It is now renamed the Seeds of Renaissance Magazine.
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
         <strong>Deadline: 10 January 2027</strong>
       </p>
       <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRXCUh-s77KCKv4smeoB7adVWOUiUhS0XXB5N9ZcpUWucmzA/viewform?usp=preview" class="btn-primary">Submit your work</a>
-        <a href="/art/manifesto" class="btn-primary">Read the manifesto</a>
-        <a href="/magazine" class="btn-primary">Discover the magazine</a>
+        <a href="https://secondrenaissance.net/art/manifesto" class="btn-primary">Read the manifesto</a>
       </div>
     </div>
   </div>
