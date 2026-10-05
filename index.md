@@ -39,10 +39,10 @@ layout: plain
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-3xl lg:text-center">
       <h2 class="text-base font-semibold leading-7 text-gray-600">
-        Issue #3: Eternity &middot; Seeds of Renaissance Magazine
+        Open call for submissions &middot; Issue #3 of the Seeds of Renaissance Magazine
       </h2>
       <p class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-        Open call for submissions to our magazine
+        Have a story to share?<br />We&rsquo;re gathering voices for Eternity
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
         Old certainties are dissolving. In this time between worlds, one question remains: what is eternal?
