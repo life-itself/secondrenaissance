@@ -40,7 +40,7 @@ layout: plain
     <div class="text-center space-y-6">
       <p class="tracking-[0.3em] text-xs uppercase font-medium" style="color:#ad2831">Open call for submissions · Issue #3: Eternity</p>
       <h2 class="font-elsie text-4xl md:text-6xl font-black text-white tracking-tight">
-        We&rsquo;re gathering voices for the next issue of the Seeds of Renaissance Magazine
+        We&rsquo;re gathering voices for the next magazine issue: Eternity
       </h2>
     </div>
     <div class="space-y-6 text-center">
@@ -61,9 +61,6 @@ layout: plain
       </p>
       <p class="text-white/70 text-xl leading-relaxed">
         Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
-      </p>
-      <p class="text-white/70 text-xl leading-relaxed">
-        You may have known it as the Second Renaissance Magazine. It is now renamed the Seeds of Renaissance Magazine.
       </p>
       <p class="font-elsie text-2xl md:text-3xl text-white/90 italic leading-relaxed pt-4">
         Deadline: 10 January 2027
