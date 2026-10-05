@@ -60,6 +60,9 @@ layout: plain
         We are gathering the voices of artists, poets, philosophers, scholars, and those who live their practice through ritual and prayer. We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features.
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
+        Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
         You may have known it as the Second Renaissance Magazine. It is now renamed the Seeds of Renaissance Magazine.
       </p>
       <p class="mt-6 text-xl leading-8 text-gray-600">
