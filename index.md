@@ -35,54 +35,33 @@ layout: plain
 </div>
 
 <!-- Call for Submissions Section -->
-<div id="call-for-submissions" class="bg-stone-950 text-white py-16 sm:py-24">
-  <div class="mx-auto max-w-4xl px-6 lg:px-8 text-center">
-    <p class="tracking-[0.3em] text-xs uppercase font-medium" style="color:#ad2831">
-      Call for submissions · Issue #3
-    </p>
-    <h2 class="font-elsie mt-4 text-5xl sm:text-7xl font-black tracking-tight">
-      ETERNITY
-    </h2>
-    <p class="font-elsie mt-4 text-xl sm:text-2xl italic text-white/80">
-      Seeds of Renaissance Magazine
-    </p>
-    <div class="mx-auto mt-6 h-0.5 w-16" style="background:#ad2831"></div>
-    <p class="mt-8 text-xl sm:text-2xl leading-relaxed text-white/90">
-      Old certainties are dissolving. In this time between worlds, one question remains: <em>what is eternal?</em>
-    </p>
-    <p class="mt-6 text-lg leading-8 text-white/70">
-      After Impermanence and Mythos, the third issue turns toward Eternity: forever and the eternal now. Can we find the eternal inside impermanence, rather than in flight from it? And in an age that dreams of digital immortality, what is truly worth carrying forward?
-    </p>
-    <p class="mt-6 text-lg leading-8 text-white/70">
-      We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features from artists, poets, philosophers, scholars and practitioners. Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
-    </p>
-    <ul class="mt-8 flex flex-wrap justify-center gap-3 text-base text-white/90">
-      <li class="rounded-full border border-white/30 px-4 py-2">🌀 Eternal return &amp; rebirth</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">🕯️ The eternal now</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">✨ Divine eternity</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">🌌 Stars, oceans, mountains &amp; sky</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">🌳 Lineage, memory &amp; ancestry</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">🪙 Gold: that which does not decay</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">🤖 AI &amp; the dream of immortality</li>
-      <li class="rounded-full border border-white/30 px-4 py-2">☁️ Heaven</li>
-    </ul>
-    <p class="mt-10 text-lg font-semibold tracking-wide">
-      📅 Deadline: 10 January 2027
-    </p>
-    <div class="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRXCUh-s77KCKv4smeoB7adVWOUiUhS0XXB5N9ZcpUWucmzA/viewform?usp=preview" target="_blank" class="btn-primary">
-        ✍️ Submit your work
-      </a>
-      <a href="/art/manifesto" class="border border-white/60 text-white px-8 py-3 rounded-full tracking-widest text-sm uppercase hover:border-white hover:bg-white/10">
-        Read the manifesto
-      </a>
-      <a href="/magazine" class="border border-white/60 text-white px-8 py-3 rounded-full tracking-widest text-sm uppercase hover:border-white hover:bg-white/10">
-        Discover the magazine
-      </a>
+<div id="call-for-submissions" class="bg-gray-200 py-16 sm:py-24">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto max-w-3xl lg:text-center">
+      <h2 class="text-base font-semibold leading-7 text-gray-600">
+        Issue #3: Eternity &middot; Seeds of Renaissance Magazine
+      </h2>
+      <p class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+        Open call for submissions to our magazine
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
+        Old certainties are dissolving. In this time between worlds, one question remains: what is eternal?
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
+        After Impermanence and Mythos, the third issue turns toward Eternity: forever and the eternal now. Can we find the eternal inside impermanence, rather than in flight from it? And in an age that dreams of digital immortality, what is truly worth carrying forward?
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
+        We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features. Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
+      </p>
+      <p class="mt-6 text-xl leading-8 text-gray-600">
+        <strong>Deadline: 10 January 2027</strong>
+      </p>
+      <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRXCUh-s77KCKv4smeoB7adVWOUiUhS0XXB5N9ZcpUWucmzA/viewform?usp=preview" class="btn-primary">Submit your work</a>
+        <a href="/art/manifesto" class="btn-primary">Read the manifesto</a>
+        <a href="/magazine" class="btn-primary">Discover the magazine</a>
+      </div>
     </div>
-    <p class="mt-10 text-base text-white/60">
-      🌱 Help us plant the seeds of a weller, wiser world: share this call with an artist, poet or thinker who needs to see it.
-    </p>
   </div>
 </div>
 
