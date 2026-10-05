@@ -34,48 +34,6 @@ layout: plain
   </div>
 </div>
 
-<!-- Call for Submissions Section -->
-<div id="call-for-submissions" class="bg-gray-200 py-16 sm:py-24">
-  <div class="mx-auto max-w-7xl px-6 lg:px-8">
-    <div class="mx-auto max-w-3xl lg:text-center">
-      <h2 class="text-base font-semibold leading-7 text-gray-600">
-        Open call for submissions &middot; Issue #3: Eternity
-      </h2>
-      <p class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-        We&rsquo;re gathering voices for the next issue of the Seeds of Renaissance Magazine
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        Old certainties are dissolving. And in this time between worlds, one question remains: what is eternal?
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        After Impermanence and MYTHOS, the third issue of the Seeds of Renaissance Magazine turns toward Eternity.
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        For centuries, eternity meant forever: immortality, heaven, the gold that does not tarnish, the stars we once believed would never die. But the mystics have always pointed somewhere else: to the eternal now, the timeless awareness beneath all change, the moment when self and world dissolve into one another.
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        What happens when these two eternities meet? Can we find the eternal inside impermanence, rather than in flight from it? And in an age that dreams of digital immortality, what is truly worth carrying forward?
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        We are gathering the voices of artists, poets, philosophers, scholars, and those who live their practice through ritual and prayer. We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features.
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        You may have known it as the Second Renaissance Magazine. It is now renamed the Seeds of Renaissance Magazine.
-      </p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">
-        <strong>Deadline: 10 January 2027</strong>
-      </p>
-      <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRXCUh-s77KCKv4smeoB7adVWOUiUhS0XXB5N9ZcpUWucmzA/viewform?usp=preview" class="btn-primary">Submit your work</a>
-        <a href="https://secondrenaissance.net/art/manifesto" class="btn-primary">Read the manifesto</a>
-      </div>
-    </div>
-  </div>
-</div>
-
 <!-- Video Section -->
 <div class="bg-white py-12 sm:py-16">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">

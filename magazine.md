@@ -35,6 +35,51 @@ layout: plain
     </div>
   </div>
 </header>
+<section id="call-for-submissions" class="bg-gray-900 py-24 md:py-36 px-6 md:px-12">
+  <div class="max-w-3xl mx-auto space-y-10">
+    <div class="text-center space-y-6">
+      <p class="tracking-[0.3em] text-xs uppercase font-medium" style="color:#ad2831">Open call for submissions · Issue #3: Eternity</p>
+      <h2 class="font-elsie text-4xl md:text-6xl font-black text-white tracking-tight">
+        We&rsquo;re gathering voices for the next issue of the Seeds of Renaissance Magazine
+      </h2>
+    </div>
+    <div class="space-y-6 text-center">
+      <p class="text-white/70 text-xl leading-relaxed">
+        Old certainties are dissolving. And in this time between worlds, one question remains: what is eternal?
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        After Impermanence and MYTHOS, the third issue of the Seeds of Renaissance Magazine turns toward Eternity.
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        For centuries, eternity meant forever: immortality, heaven, the gold that does not tarnish, the stars we once believed would never die. But the mystics have always pointed somewhere else: to the eternal now, the timeless awareness beneath all change, the moment when self and world dissolve into one another.
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        What happens when these two eternities meet? Can we find the eternal inside impermanence, rather than in flight from it? And in an age that dreams of digital immortality, what is truly worth carrying forward?
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        We are gathering the voices of artists, poets, philosophers, scholars, and those who live their practice through ritual and prayer. We welcome artworks, photography, poems, stories, practices, prayers, essays and longer features.
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        Bring us your work in all its texture, vulnerability and imperfection. That is where the soul lives.
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        You may have known it as the Second Renaissance Magazine. It is now renamed the Seeds of Renaissance Magazine.
+      </p>
+      <p class="font-elsie text-2xl md:text-3xl text-white/90 italic leading-relaxed pt-4">
+        Deadline: 10 January 2027
+      </p>
+    </div>
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRXCUh-s77KCKv4smeoB7adVWOUiUhS0XXB5N9ZcpUWucmzA/viewform?usp=preview" target="_blank" class="btn-primary">
+        Submit your work
+      </a>
+      <a href="https://secondrenaissance.net/art/manifesto"
+        class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center justify-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
+        Read the manifesto
+      </a>
+    </div>
+  </div>
+</section>
 <section class="py-24 md:py-36 px-6 md:px-12 max-w-6xl mx-auto">
   <div class="grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-24 items-center">
     <div class="space-y-7">
