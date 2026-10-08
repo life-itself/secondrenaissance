@@ -115,4 +115,23 @@ image: /assets/img/previews/papers-preview.jpg
     </div>
   </div>
 
+  <!-- Paper 6 -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="/papers/wisdom" class="shrink-0 md:w-64">
+      <img src="/assets/wisdom/wisdom-cover.jpg" alt="Paper 6 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
+    <div class="flex flex-col">
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 6</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">Wisdom and Wanting What's Good</h3>
+      <p class="text-lg text-gray-500 italic mb-1">Collective wisdom for a time of crisis and renewal</p>
+      <p class="text-sm text-gray-500 mb-3">Rufus Pollock & Rosie Bell · 2026</p>
+      <p class="text-gray-600 mb-6">Against a backdrop of global crisis, wisdom emerges as a vital capacity for a regenerative future. This paper explores wisdom as a practical, collective capacity, for choosing what's good and acting skilfully towards it; why modern society, trusting only what can be measured, has neglected it; and what it would take to revive it.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/papers/wisdom" class="btn-primary">Read More</a>
+        <a href="/papers/wisdom/essay" class="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2 rounded-full text-sm uppercase tracking-wide hover:bg-gray-100 no-underline">Read Online</a>
+        <a href="/assets/wisdom/wisdom-and-wanting-whats-good.pdf" class="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2 rounded-full text-sm uppercase tracking-wide hover:bg-gray-100 no-underline">Full Paper (PDF)</a>
+      </div>
+    </div>
+  </div>
+
 </section>
