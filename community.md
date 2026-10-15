@@ -12,7 +12,7 @@ From July 2024 to March 2026, this took the form of weekly calls (formerly "The 
 
 ## Calls resume Thursday, October 29th, 2026
 
-We're bringing regular community calls back — 10am Pacific / 13:00 Eastern / 19:00 Central Europe, weekly. Register on Luma to hold your place (date may shift slightly, registrants will be notified):
+We're bringing regular community calls back — 11am Pacific / 2pm Eastern / 7pm Central Europe, weekly. Register on Luma to hold your place (date may shift slightly, registrants will be notified):
 
 [Register on Luma →](https://luma.com/second-869c)
 
